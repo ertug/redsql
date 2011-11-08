@@ -1,0 +1,9 @@
+RedSQL
+======
+
+A storage engine for MySQL that uses Redis.
+
+
+Author
+------
+Ertug Karamatli <ertug@karamatli.com>
